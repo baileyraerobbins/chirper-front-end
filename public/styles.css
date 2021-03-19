@@ -1,0 +1,29 @@
+body{
+    background-image: url(./Untitled.001.jpeg);
+    background-repeat: repeat-y;
+    ;
+}
+
+.container{
+    margin-top: 35px;
+}
+
+.chirpForm{
+    background-color: white;
+
+}
+
+.messages{
+    color: black;
+    background-color: white;
+}
+
+.time{
+    color: gray;
+    font-size: 10px;
+}
+
+.msgBox {
+    height: 350px;
+    overflow: auto;
+}
