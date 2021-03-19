@@ -4,7 +4,7 @@ import moment from 'moment';
 import Chirp from './components/Chirp'
 
 
-const App = () => { //create react hook
+const App = () => { 
 
     const initialList = [ //array of initial messages
         {
