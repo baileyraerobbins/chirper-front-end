@@ -4,10 +4,7 @@ import moment from 'moment';
 import Chirp from './components/Chirp';
 import Form from './components/Form'
 
-
-
 const App = () => { 
-
     const initialList = [ //array of initial messages
         {
             name: 'Tigger',
